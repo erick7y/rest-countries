@@ -13,7 +13,7 @@ O projeto deve ser configurado como segue:
 
 1. Clone este repositório.
 2. Instale as dependências do projeto: `pip3 install -r requirements.txt`
-4. Execute o arquivo api.py para iniciar a aplicação: `python3 api.py`
+4. Execute o arquivo `api.py` para iniciar a aplicação: `python3 api.py`
 
 ## Utilização
 
